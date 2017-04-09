@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+*.iml
+target/
+/generic-site/src/main/javascript/node/
+/generic-site/src/main/javascript/node_modules/
+/generic-site/src/main/resources/static/dist/
